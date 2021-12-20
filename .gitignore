@@ -1,0 +1,11 @@
+*.class
+.DS_Store
+*.project
+*.classpath
+*.iml
+*.idea
+.settings/
+bin/
+surefire-reports/
+shippable/
+*.prefs
